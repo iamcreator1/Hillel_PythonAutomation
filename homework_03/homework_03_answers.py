@@ -19,8 +19,8 @@ print('----------')
 #моря становить 37 800 км2. Яку площу займають Чорне та Азов-
 #ське моря разом?
 print('task04')
-black_sea_square = 436.402 #площа чорного моря
-azov_sea_square = 37.800 #площа азовського моря
+black_sea_square = 436_402 #площа чорного моря
+azov_sea_square = 37_800 #площа азовського моря
 general_square = black_sea_square + azov_sea_square
 print(f'Загальна площа Чорного та Азовського моря становить: {general_square} км2')
 
